@@ -1,0 +1,46 @@
+{
+    "ProductList": [
+        {
+            "id": 1,
+            "jersey": "chelsea",
+            "price": 500,
+            "image": "1920away.jpg",
+            "description": "19-20 Away"
+        },
+        {
+            "id": 2,
+            "jersey": "chelsea",
+            "price": 600,
+            "image": "2021away.jpg",
+            "description": "20-21 Away"
+        },
+        {
+            "id": 3,
+            "jersey": "chelsea",
+            "price": 550,
+            "image": "2021home.jpg",
+            "description": "20-21 Home"
+        },
+        {
+            "id": 4,
+            "jersey": "chelsea",
+            "price": 200,
+            "image": "2122away.jpg",
+            "description": "21-22 Away"
+        },
+        {
+            "id": 5,
+            "jersey": "chelsea",
+            "price": 400,
+            "image": "2122home.jpg",
+            "description": "21-22 Home"
+        },
+        {
+            "id": 6,
+            "jersey": "chelsea",
+            "price": 800,
+            "image": "airmax.jpg",
+            "description": "Air Max x Chelsea"
+        }
+    ]
+}
